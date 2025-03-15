@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://browva.csgad.com/cii/sitemap.xml.gz
